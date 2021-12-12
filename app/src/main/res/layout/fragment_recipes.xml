@@ -38,6 +38,7 @@
         android:layout_height="100dp"
         android:alpha="0.5"
         android:src="@drawable/ic_sad"
+        android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -51,8 +52,9 @@
         android:layout_marginTop="8dp"
         android:alpha="0.5"
         android:text="No Internet Connection"
-        android:textStyle="bold"
         android:textSize="18sp"
+        android:textStyle="bold"
+        android:visibility="invisible"
         app:layout_constraintEnd_toEndOf="@+id/error_image_view"
         app:layout_constraintStart_toStartOf="@+id/error_image_view"
         app:layout_constraintTop_toBottomOf="@+id/error_image_view" />
