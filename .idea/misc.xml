@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/fragment_food_joke.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/fragment_recipes.xml" value="0.2359375" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

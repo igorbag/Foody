@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.databinding:databinding-runtime:4.0.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c781bd8c1dc8321689dab5b166dd6633/transformed/databinding-runtime-4.0.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c781bd8c1dc8321689dab5b166dd6633/transformed/databinding-runtime-4.0.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c781bd8c1dc8321689dab5b166dd6633/transformed/databinding-runtime-4.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e65d226c92a0bb5ef3f2938164fcfdf/databinding-runtime-4.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e65d226c92a0bb5ef3f2938164fcfdf/databinding-runtime-4.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e65d226c92a0bb5ef3f2938164fcfdf/databinding-runtime-4.0.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
