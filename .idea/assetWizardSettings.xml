@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:$USER_HOME$/Library/Android/sdk/icons/material/materialicons/emoji_emotions/baseline_emoji_emotions_24.xml" />
+                                      <entry key="url" value="file:$USER_HOME$/Library/Android/sdk/icons/material/materialicons/sentiment_very_dissatisfied/baseline_sentiment_very_dissatisfied_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_emoji" />
+                            <entry key="outputName" value="ic_sad" />
                           </map>
                         </option>
                       </PersistentState>
