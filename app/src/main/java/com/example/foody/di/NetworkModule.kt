@@ -1,7 +1,7 @@
 package com.example.foody.di
 
 import com.example.foody.Constants
-import com.example.foody.FoodRecipesApi
+import com.example.foody.data.network.FoodRecipesApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
