@@ -125,6 +125,7 @@
                 <ImageView
                     android:id="@+id/leaf_imageView"
                     applyVeganColor="@{result.vegan}"
+                    loadImageFromUrl="@{result.image}"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     app:layout_constraintEnd_toEndOf="@+id/leaf_textView"
